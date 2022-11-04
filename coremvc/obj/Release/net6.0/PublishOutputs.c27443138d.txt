@@ -1,0 +1,7 @@
+C:\Projects\coremvc\coremvc\obj\Release\net6.0\PubTmp\Out\coremvc.exe
+C:\Projects\coremvc\coremvc\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\coremvc\coremvc\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Projects\coremvc\coremvc\obj\Release\net6.0\PubTmp\Out\coremvc.dll
+C:\Projects\coremvc\coremvc\obj\Release\net6.0\PubTmp\Out\coremvc.deps.json
+C:\Projects\coremvc\coremvc\obj\Release\net6.0\PubTmp\Out\coremvc.runtimeconfig.json
+C:\Projects\coremvc\coremvc\obj\Release\net6.0\PubTmp\Out\coremvc.pdb
